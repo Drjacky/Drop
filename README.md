@@ -92,3 +92,5 @@ The beer screen is a guide for the brewer and contains:
 ● Description
 
 The beer list can be accessed through the PUNK API: ​https://punkapi.com/documentation/v2
+
+![Screenshot](https://raw.githubusercontent.com/Drjacky/Drop/master/list.png)
